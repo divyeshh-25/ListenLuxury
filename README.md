@@ -12,4 +12,7 @@ This project focuses purely on **UI/UX design** — showcasing a sleek, minimal,
 - ⚡ Built with Tailwind CSS  
 - 🖼️ Beautiful product-focused landing page  
 
+## 🚀 Demo
+👉 [Live Demo](https://divyeshh-25.github.io/ListenLuxury/)
+
 ---
